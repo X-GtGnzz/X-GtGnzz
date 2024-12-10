@@ -1,70 +1,25 @@
-**Web Write Me ```https://writeme.rf.gd/```**
-# Platform Komunikasi Sederhana  
+# 💫 About Me:
+Learn And Try.<br>A Place To Store And Develop Skills, Publication For People Can Try My Results
 
-Repositori ini adalah dokumentasi dan perencanaan untuk pengembangan platform komunikasi berbasis web sederhana. Platform ini dirancang untuk menyediakan cara baru dan unik bagi pengguna untuk berinteraksi satu sama lain.  
 
-## 💬 Deskripsi Platform  
-Platform ini memungkinkan pengguna untuk berkomunikasi melalui fitur-fitur sederhana namun unik. Fokus utama adalah menciptakan pengalaman yang menyenangkan, ringan, dan berbeda dari platform komunikasi konvensional.  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat&logo=codecov&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=X-GtGnzz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=X-GtGnzz&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=X-GtGnzz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Fitur Unik yang Direncanakan  
-- **Pesan Anonim Kreatif**: Pengguna dapat mengirim pesan tanpa identitas, tetapi dengan batasan kreatif seperti menggunakan gambar ASCII, teka-teki, atau emoji.  
-- **Ruangan Acak (Random Rooms)**: Sistem akan menghubungkan pengguna ke ruang obrolan berdasarkan tema tertentu atau secara acak.  
-- **Mode Slow Chat**: Pesan hanya bisa terkirim setiap interval tertentu, memaksa pengguna berpikir sebelum mengetik.  
-- **Mini-Games dalam Chat**: Tambahkan permainan kecil (seperti tebak kata atau kuis) di dalam obrolan untuk meningkatkan interaksi.  
-- **React-only Messages**: Pesan hanya bisa dijawab dengan emoji atau stiker, tanpa teks.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=X-GtGnzz&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Tools dan Teknologi  
-Platform ini akan dikembangkan menggunakan:  
-- **HTML5**: Untuk struktur halaman dan antarmuka pengguna.  
-- **CSS3**: Untuk gaya visual dan responsivitas.  
-- **JavaScript**: Untuk logika platform dan fitur interaktif.  
-- **Node.js**: Untuk server backend (opsional).  
-- **WebSocket**: Untuk komunikasi real-time antara pengguna.  
-- **Firebase**: Untuk autentikasi dan penyimpanan data (opsional).  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🚀 Tahapan Pengembangan  
-1. **Perencanaan (Planning)**  
-   - Menentukan fitur unik untuk platform.  
-   - Membuat wireframe atau mockup sederhana.  
-   - Menyusun roadmap pengembangan.  
+---
+[![](https://visitcount.itsvg.in/api?id=X-GtGnzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-2. **Pengembangan Frontend**  
-   - **Setup Project**  
-     - Struktur direktori:  
-       - `index.html`: Halaman utama platform.  
-       - `style.css`: Desain antarmuka.  
-       - `app.js`: Logika frontend untuk interaksi pengguna.  
-     - Desain antarmuka yang minimalis dan menarik.  
-   - **Implementasi Fitur**  
-     - Membuat form untuk mengirim pesan.  
-     - Menambahkan ruang obrolan berbasis tema atau acak.  
-     - Membuat fitur interaktif seperti mini-games atau react-only messages.  
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/GtGnzz) 
 
-3. **Pengembangan Backend**  
-   - Mengatur server sederhana dengan Node.js untuk menangani pesan pengguna.  
-   - Menyimpan data sementara (jika dibutuhkan) menggunakan Firebase atau file JSON.  
-
-4. **Testing dan Debugging**  
-   - Uji coba komunikasi real-time antar pengguna.  
-   - Pastikan fitur unik berjalan dengan baik di berbagai perangkat.  
-
-5. **Peluncuran (Deployment)**  
-   - Hosting platform menggunakan GitHub Pages (frontend-only) atau platform seperti Heroku/Netlify.  
-
-## 💡 Tujuan Proyek  
-- Membuat platform komunikasi yang ringan namun inovatif.  
-- Meningkatkan kreativitas pengguna dalam berkomunikasi.  
-- Mempelajari implementasi real-time communication dengan WebSocket.  
-
-## 📈 Progress  
-- **Perencanaan**: ✅  
-- **Pengembangan Frontend**: 🚧  
-- **Pengembangan Backend**: ❌  
-- **Testing**: ❌  
-- **Peluncuran**: ❌  
-
-## 📬 Kontribusi  
-Kami terbuka untuk ide-ide baru! Jika Anda memiliki saran untuk fitur atau ingin membantu pengembangan, silakan ajukan *pull request* atau buka *issue*.  
-
-## 🎉 Terima Kasih  
-Terima kasih telah mengunjungi repositori ini! Kami berharap platform ini dapat memberikan pengalaman unik dalam berkomunikasi.
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
